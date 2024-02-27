@@ -1,5 +1,7 @@
 # Claude AI Chat
 - Claude is **an AI assistant (i.e. chatbot) developed by Anthropic**. It was first released in March 2023, powered by the language model Claude 1.3. However, a second version – powered by a language model called Claude 2 – was released in July 2023
+- Anthropic's founders are OpenAI old members
+- Free to use (limited usage) 
 # Comparison to ChatGPT
 | Parameters | ChatGPT | Claude 2.1 |
 |---|---|---|
@@ -23,5 +25,6 @@
 | Humor | Same as Claude 2 | Not as humorous |
 | Text summarization | Well summarized. | GPT-3.5 and GPT-4 |
 - ChatGPT 4 is still better overall, so if you are GPT-4 user already, better keep using GPT-4
+- If you are not buying GPT4, Claude is a better option compared to GPT-3.5 (in my opinion)
 - If you are still using GPT3.5, i recommend using both AI
 - You can read this article for detailed comparison [ChatGPT vs Claude 2.1 - Side by Side Comparison (2024) (demandsage.com)](https://www.demandsage.com/chatgpt-vs-claude/)
