@@ -1,7 +1,8 @@
 # Claude AI Chat
 - Claude is **an AI assistant (i.e. chatbot) developed by Anthropic**. It was first released in March 2023, powered by the language model Claude 1.3. However, a second version – powered by a language model called Claude 2 – was released in July 2023
 - Anthropic's founders are OpenAI old members
-- Free to use (limited usage) 
+- Free to use (limited usage)
+- Access URL: [claude.ai](https://claude.ai/)
 # Comparison to ChatGPT
 | Parameters | ChatGPT | Claude 2.1 |
 |---|---|---|
