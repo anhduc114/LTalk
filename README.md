@@ -24,3 +24,4 @@
 | Text summarization | Well summarized. | GPT-3.5 and GPT-4 |
 - ChatGPT 4 is still better overall, so if you are GPT-4 user already, better keep using GPT-4
 - If you are still using GPT3.5, i recommend using both AI
+- You can read this article for detailed comparison [ChatGPT vs Claude 2.1 - Side by Side Comparison (2024) (demandsage.com)](https://www.demandsage.com/chatgpt-vs-claude/)
